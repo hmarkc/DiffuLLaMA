@@ -1,5 +1,6 @@
 ### model
-model_name_or_path: output/llama2-ddm
+model_name_or_path: meta-llama/Llama-2-7b-hf
+# model_name_or_path: output/llama2-ddm
 print_param_status: true
 
 ### method
