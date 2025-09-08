@@ -1,0 +1,1 @@
+FORCE_TORCHRUN=1 llamafactory-cli train examples/train_lora/qwen-4B-thinking_lora_ddm-sft-gsm.yaml
